@@ -1,2 +1,0 @@
-# tests
-For testing purposes
